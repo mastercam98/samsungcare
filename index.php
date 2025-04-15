@@ -1,1 +1,1 @@
-<?php echo "Samsung cares"; ?>
+<?php echo "Samsung cares develop"; ?>
